@@ -16,8 +16,7 @@ export const AddCategory = ( { onNewCategory } ) => {
         onNewCategory( inputValue.trim() );
         setInputValue("");
 
-        let spaces= "           asdaasd             "
-        console.log(spaces);
+
     }
 
     return (
