@@ -17,7 +17,8 @@ export const GifExpertApp = () => {
 
   return (
         <>
-            <h1>GifExpertApp</h1>
+
+            <h1>Busca gifs de tus animes favoritos :3</h1>
 
             <AddCategory
                 onNewCategory= { (event) => onAddCategory(event) }
